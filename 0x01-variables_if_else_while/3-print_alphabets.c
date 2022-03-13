@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * Main - Main function
- * Description - Prints alpha in lowercase, uppercase, then new line.
- * Retun: 0
+ * main - Main function
+ * Description: Prints alpha in lowercase, uppercase, then new line.
+ * Return: 0
  */
 int main(void)
 {
