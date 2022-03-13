@@ -1,6 +1,6 @@
 include <stdio.h>
 /**
-*main - main block
+* main - main block
 * Description: Print all possible combinations fo single-digit numbers.
 * Numbers must be separated by commas and a space.
 * You can only use `putchar` to print to console
@@ -11,7 +11,7 @@ include <stdio.h>
 int main(void)
 {
 	int i = 0;
-	
+
 	while (i < 10)
 	{
 		putchar(i + '0');
@@ -22,7 +22,7 @@ int main(void)
 		}
 		i++;
 	}
-	putchar('\n');
+		putchar('\n');
 
-	return (0);
+		return (0);
 }
