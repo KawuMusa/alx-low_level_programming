@@ -1,9 +1,9 @@
 #include <stdio.h>
-/** 
- * main - main function
- * Description: prints alphabet in lowecase, then new line.
- * Return: 0
- */
+/**
+* main - main function
+* Description: prints alphabet in lowecase, then new line.
+* Return: 0
+*/
 int main(void)
 {
 	char c = 'a';
