@@ -1,5 +1,5 @@
 #include <stdio.h>
-/** 
+/**
  * Main - Main function
  * Description - Prints alpha in lowercase, uppercase, then new line.
  * Retun: 0
