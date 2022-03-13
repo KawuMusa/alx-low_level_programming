@@ -18,8 +18,8 @@ int main(void)
 	{
 		putchar(c);
 	}
-	
-	putchar('\n');
+
+	utchar('\n');
 	
 	return (0);
 }
